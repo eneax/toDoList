@@ -1,3 +1,3 @@
 # toDoList
 
-A simple to-do list made with CSS and jQuery.
+A simple to-do list built with CSS and jQuery.
