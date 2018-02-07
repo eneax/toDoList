@@ -30,9 +30,7 @@ h1 {
   -moz-transition: transform .5s;
 }
 
-.fa-pencil:hover {
-	transform: rotate(-30deg);
-}
+.fa-pencil:hover { transform: rotate(-30deg); }
 
 ul {
   list-style: none;
@@ -47,9 +45,7 @@ li {
   line-height: 45px;
 }
 
-li:nth-child(2n) {
-  background: #f7f7f7;
-}
+li:nth-child(2n) { background: #f7f7f7; }
 
 input {
   font-size: 15px;
@@ -61,9 +57,7 @@ input {
   border: 3px solid rgba(0, 0, 0, 0);
 }
 
-input::placeholder {
-  color: #8E0E00;
-}
+input::placeholder { color: #8E0E00; }
 
 input:focus {
   background: #fff;
